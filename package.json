@@ -1,0 +1,15 @@
+{
+  "name": "Practice",
+  "version": "1.0.0",
+  "description": "This application takes user id as input and makes a search on GitHUb and pulls information about that user.",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages p"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
